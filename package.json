@@ -1,0 +1,23 @@
+{
+  "name": "atividade_final_ts",
+  "version": "1.0.0",
+  "description": "Atividade final da disciplina Testes de Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lufllp/atividade_final_ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lufllp/atividade_final_ts/issues"
+  },
+  "homepage": "https://github.com/lufllp/atividade_final_ts#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2"
+  }
+}
